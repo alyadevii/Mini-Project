@@ -36,8 +36,7 @@ Dashboard ini menampilkan ringkasan transaksi e-commerce dengan berbagai visuali
 
 Tambahkan link ke dashboard interaktif jika ada, contoh:
 
-[Lihat Dashboard Interaktif](https://lookerstudio.google.com/reporting/your-dashboard-id)
-
+[Lihat Dashboard Interaktif](https://lookerstudio.google.com/reporting/51196608-8d09-42f5-84ac-0deec75f27c7/page/CuDSF)
 ---
 
 ## Cara Menggunakan
